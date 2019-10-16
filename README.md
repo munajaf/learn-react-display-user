@@ -6,3 +6,9 @@ It was made so that i can learn React
 <div>
   <img src="/public/learn1.PNG?raw=true" style="margin:8px;">
 </div>
+<div>
+  <img src="/public/learn2.PNG?raw=true" style="margin:8px;">
+</div>
+<div>
+  <img src="/public/learn3.PNG?raw=true" style="margin:8px;">
+</div>
