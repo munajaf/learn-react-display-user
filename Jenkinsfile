@@ -1,17 +1,15 @@
-#!/usr/bin/env groovy
-
-node('master') {
-    try {
-        stage('build') {
-            sh "npm install"
+pipeline {
+    agent {
+        docker {
+            image 'node:6-alpine' 
+            args '-p 3000:3000' 
         }
-
-        stage('test') {
-            sh "npm test"
+    }
+    stages {
+        stage('Build') { 
+            steps {
+                sh 'npm install' 
+            }
         }
-    } catch(error) {
-        throw error
-    } finally {
-
     }
 }
