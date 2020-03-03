@@ -1,5 +1,6 @@
 {
-  "name": "recipe",
+  "homepage": "https://munajaf.github.io/learn-react-display-user/",
+  "name": "display",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -13,6 +14,9 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "react-scripts build",
+    "deploy": "gh-pages -d build",
+    "postdeploy" :
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -32,6 +36,7 @@
     ]
   },
   "devDependencies": {
-    "eslint-plugin-react-hooks": "^2.1.2"
+    "eslint-plugin-react-hooks": "^2.1.2",
+    "gh-pages": "^2.2.0"
   }
 }
