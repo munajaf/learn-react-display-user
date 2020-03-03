@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/learn-react-display-user/static/css/main.498d002a.chunk.css",
+    "main.js": "/learn-react-display-user/static/js/main.a0228991.chunk.js",
+    "main.js.map": "/learn-react-display-user/static/js/main.a0228991.chunk.js.map",
+    "runtime-main.js": "/learn-react-display-user/static/js/runtime-main.4b6977b1.js",
+    "runtime-main.js.map": "/learn-react-display-user/static/js/runtime-main.4b6977b1.js.map",
+    "static/css/2.d88ce3aa.chunk.css": "/learn-react-display-user/static/css/2.d88ce3aa.chunk.css",
+    "static/js/2.e07ebc58.chunk.js": "/learn-react-display-user/static/js/2.e07ebc58.chunk.js",
+    "static/js/2.e07ebc58.chunk.js.map": "/learn-react-display-user/static/js/2.e07ebc58.chunk.js.map",
+    "index.html": "/learn-react-display-user/index.html",
+    "precache-manifest.914fd9c6c61ac0591f50316a5bd5577b.js": "/learn-react-display-user/precache-manifest.914fd9c6c61ac0591f50316a5bd5577b.js",
+    "service-worker.js": "/learn-react-display-user/service-worker.js",
+    "static/css/2.d88ce3aa.chunk.css.map": "/learn-react-display-user/static/css/2.d88ce3aa.chunk.css.map",
+    "static/css/main.498d002a.chunk.css.map": "/learn-react-display-user/static/css/main.498d002a.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b6977b1.js",
+    "static/css/2.d88ce3aa.chunk.css",
+    "static/js/2.e07ebc58.chunk.js",
+    "static/css/main.498d002a.chunk.css",
+    "static/js/main.a0228991.chunk.js"
+  ]
+}
